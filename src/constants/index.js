@@ -53,5 +53,5 @@ export const PROJECTS_PROMISE = fetchProjects
 export const CONTACT = {
   address: 'Ullmannstraße 54, Vienna 1150 ',
   phoneNo: '+359 88 5745 587',
-  email: 'presiyan_bankov@gmail.com',
+  email: 'presiyan.bankov@gmail.com',
 }
