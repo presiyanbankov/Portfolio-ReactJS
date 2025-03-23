@@ -8,14 +8,16 @@ This is a personal portfolio website designed to showcase my projects, skills, a
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Live Demo](#live-demo)
-- [Contact](#contact)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [📝 Description](#-description)
+- [Table of Contents](#table-of-contents)
+- [🚀 Features](#-features)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [🖥️ Installation](#️-installation)
+- [🎨 Usage](#-usage)
+- [🔗 Live Demo](#-live-demo)
+- [📬 Contact](#-contact)
+- [📄 License](#-license)
+- [🙏 Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -61,7 +63,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-   5.Open your browser and visit `http://localhost:3000` to view the website.
+5. Open your browser and visit `http://localhost:3000` to view the website.
 
 ---
 
