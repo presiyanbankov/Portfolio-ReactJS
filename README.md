@@ -91,7 +91,7 @@ If you'd like to connect or have any questions, feel free to reach out:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for details.
 
 ## 🙏 Acknowledgments
 
