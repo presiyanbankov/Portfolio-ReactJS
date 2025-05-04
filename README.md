@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PreZko/Portfolio-ReactJS.git
+   git clone https://github.com/presiyanbankov/Portfolio-ReactJS.git
    ```
 2. Navigate to the project directory
    ```bash
@@ -87,7 +87,7 @@ If you'd like to connect or have any questions, feel free to reach out:
 
 - **Email**: presiyan_bankov@gmail.com
 - **LinkedIn**: [Presiyan Bankov](https://linkedin.com/in/presiyan-bankov)
-- **GitHub**: [PreZko](https://github.com/prezko)
+- **GitHub**: [presiyanbankov](https://github.com/presiyanbankov)
 
 ## 📄 License
 
