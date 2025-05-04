@@ -11,7 +11,7 @@ const Navbar = () => {
         <a href='https://www.linkedin.com/in/presiyan-bankov' target='_blank'>
           <FaLinkedin />
         </a>
-        <a href='https://github.com/PreZko' target='_blank'>
+        <a href='https://github.com/presiyanbankov' target='_blank'>
           <FaGithub />
         </a>
         <a href='https://www.instagram.com/__presko__/' target='_blank'>
